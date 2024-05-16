@@ -1,9 +1,7 @@
 # Compiled class file
 *.class
 
-logs/
 
-*Txt
 
 # Log file
 *.log
