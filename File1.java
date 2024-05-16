@@ -4,10 +4,17 @@ public class File1
 {
   int X=100;
   int y=10;
-  public void add() 
+  public void add()
   {
-	  System.out.println(x+y);
+	  System.out.println("sum=:"+(x+y));
   }
+
+public static void main(String[]args){
+  
+System.out.println("FirstnJava");
+System.out.println("SecondLine of Code");  
+}
+  
   public static void main(String[]args)
   {
       System.out.println("FirstnJava");
