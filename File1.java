@@ -8,11 +8,6 @@ public class File1
   {
 	  System.out.println(x+y);
   }
-
-  public void add()
-   {
-	   System.out.println( x+y);
-   }
   public static void main(String[]args)
   {
       System.out.println("FirstnJava");
