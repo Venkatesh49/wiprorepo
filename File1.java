@@ -11,6 +11,7 @@ public class File1
   int y=10;
 >>>>>>> eff9e37b43e7e81ca6e2abec92918ac655e31a40
 public static void main(String[]args){
+  
 System.out.println("FirstnJava");
 System.out.println("SecondLine of Code");
   
