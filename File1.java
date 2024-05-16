@@ -2,9 +2,7 @@
 import java.lang.*;
 
 public class File1
-{
-
-  
+{  
   int X=100;
   int y=10;
   public void add()
