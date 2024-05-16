@@ -1,15 +1,18 @@
 
 import java.lang.*;
-
 public class File1
 {
-
   int X=100;
   int y=10;
   public void add() 
   {
 	  System.out.println(x+y);
   }
+
+  public void add()
+   {
+	   System.out.println( x+y);
+   }
   public static void main(String[]args)
   {
       System.out.println("FirstnJava");
@@ -19,6 +22,7 @@ public class File1
       f1.add();
   }
 }
+
 
 
 
